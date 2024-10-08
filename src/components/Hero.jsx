@@ -48,7 +48,7 @@ function Hero() {
           <h2 className="headline-1">
             Building Scalable Modern Websites for the Future
           </h2>
-          <div className="flex items-center gap-3">
+          <div className="flex gap-3 flex-col sm:flex-row ">
             <PrimaryButton label="Download CV" icon="download" className='' onClick={onButtonClick} target="_blank"/>
 
             <OutlineButton label="Scroll down" href='#about' icon="arrow_downward" />

@@ -7,13 +7,13 @@ const works = [
     imgSrc: "/images/project-1.png",
     title: "Resume Builder",
     tags: ["HTML", "CSS", "JavaScript"],
-    projectLink: "https://musify-5al0.onrender.com/",
+    projectLink: "https://resumebuilder-9q8o.vercel.app/",
   },
   {
     imgSrc: "/images/exp3.png",
-    title: "Free stock photo app",
-    tags: ["API", "SPA"],
-    projectLink: "https://pixstock-official.vercel.app/",
+    title: "Expense Tracker",
+    tags: ["Next js","React", "tailwind css" , "Shadcn UI"],
+    projectLink: "https://expensetracker-kqxy.vercel.app/",
   },
   {
     imgSrc: "/images/todo pic.png",

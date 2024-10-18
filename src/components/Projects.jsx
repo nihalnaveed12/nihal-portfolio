@@ -4,6 +4,12 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
+    imgSrc: "/images/blog-screen.png",
+    title: "Full Stack Blog App",
+    tags: ["React JS", "Appwrite", "TailwindCSS", "Redux Toolkit"],
+    projectLink: "https://blog-website-nihal.vercel.app/",
+  },
+  {
     imgSrc: "/images/project-1.png",
     title: "Resume Builder",
     tags: ["HTML", "CSS", "JavaScript"],

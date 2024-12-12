@@ -10,28 +10,22 @@ const works = [
     projectLink: "https://blog-website-nihal.vercel.app/",
   },
   {
+    imgSrc: "/portfolio-nihal.png",
+    title: "Portfolio Website",
+    tags: ["Next js","React", "tailwind css" , "Shadcn UI" , "Framer motion",],
+    projectLink: "https://portfolio-website-nihal.vercel.app/",
+  },
+  {
+    imgSrc: "/clothes-store.png",
+    title: "E-commerce Website",
+    tags: ["Next js", "Tailwind CSS" , "React", "Redux-toolkit" , "Framer Motion"],
+    projectLink: "https://bs-fashion.vercel.app/",
+  },
+  {
     imgSrc: "/images/project-1.png",
     title: "Resume Builder",
     tags: ["HTML", "CSS", "JavaScript"],
     projectLink: "https://resumebuilder-9q8o.vercel.app/",
-  },
-  {
-    imgSrc: "/images/exp3.png",
-    title: "Expense Tracker",
-    tags: ["Next js","React", "tailwind css" , "Shadcn UI"],
-    projectLink: "https://expensetracker-kqxy.vercel.app/",
-  },
-  {
-    imgSrc: "/images/todo pic.png",
-    title: "Todo List App",
-    tags: ["React js", "Tailwind CSS" , "Context API"],
-    projectLink: "https://to-do-list-nihal.netlify.app/",
-  },
-  {
-    imgSrc: "/images/12th.png",
-    title: "Movie Search App",
-    tags: ["Next js","React", "tailwind css" , "Shadcn UI"],
-    projectLink: "https://movies-search-app-nu.vercel.app/",
   },
 ];
 

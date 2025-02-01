@@ -24,7 +24,7 @@ function Hero() {
     document.body.removeChild(link);
 };
   return (
-    <section id="home" className="home pt-28 lg:pt-36">
+    <section id="home" className="home pt-28 lg:pt-28">
       <div className="container items-center lg:grid lg:grid-cols-2 lg:gap-2">
         <div>
           <div className="flex items-center gap-3">
@@ -55,14 +55,14 @@ function Hero() {
           </div>
         </div>
 
-        <div className="hidden lg:block">
+        <div className="hidden lg:block pb-20">
           <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-sky-400 via-25% via-sky-400/40 to-65% rounded-[60px] overflow-hidden">
             <img
-              src="./images/nihal1.png.png"
+              src="./nihal.png"
               width={656}
               height={800}
               alt="Nihal Naveed Photo"
-              className="w-full"
+              className=""
             />
           </figure>
         </div>

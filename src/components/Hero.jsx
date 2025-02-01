@@ -15,7 +15,7 @@ function Hero() {
   })
 
   const onButtonClick = () => {
-    const pdfUrl = "NihalCV.pdf";
+    const pdfUrl = "Nihal Naveed Professional Resume.pdf";
     const link = document.createElement("a");
     link.href = pdfUrl;
     link.download = "resume.pdf"; // specify the filename

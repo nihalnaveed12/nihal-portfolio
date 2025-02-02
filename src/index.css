@@ -44,7 +44,7 @@ body {
 }
 
 .img-cover {
-  @apply w-full h-full object-cover object-center;
+  @apply w-full h-full object-cover rounded-xl object-center;
 }
 
 .headline-1 {

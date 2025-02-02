@@ -4,7 +4,19 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: "/images/blog-screen.png",
+    imgSrc: "/furniture-web.png",
+    title: "Furniture E-commerce Markeplace",
+    tags: ["Next JS", "Sanity CMS", "TailwindCSS", "Redux Toolkit", "TypeScript"],
+    projectLink: "https://giaic-hackathon2-xi.vercel.app/",
+  },
+  {
+    imgSrc: "/agriswara.png",
+    title: "Agriculture Blog Website Agriswara",
+    tags: ["Next JS","TailwindCSS", "Redux Toolkit", "Framer Motion", "TypeScript"],
+    projectLink: "https://giaic-hackathon2-xi.vercel.app/",
+  },
+  {
+    imgSrc: "/images/blogss.png",
     title: "Full Stack Blog App",
     tags: ["React JS", "Appwrite", "TailwindCSS", "Redux Toolkit"],
     projectLink: "https://blog-website-nihal.vercel.app/",
@@ -22,7 +34,7 @@ const works = [
     projectLink: "https://bs-fashion.vercel.app/",
   },
   {
-    imgSrc: "/images/project-1.png",
+    imgSrc: "/resume-pic.png",
     title: "Resume Builder",
     tags: ["HTML", "CSS", "JavaScript"],
     projectLink: "https://resumebuilder-9q8o.vercel.app/",

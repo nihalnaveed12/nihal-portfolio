@@ -8,7 +8,7 @@ function ProjectCard({ imgSrc, title, tags, projectLink, clasess }) {
         clasess 
       }
     >
-      <figure className="img-box aspect-square rounde-lg mb-4">
+      <figure className="img-box aspect-video rounde-lg mb-4">
         <img src={imgSrc} alt={title} className="img-cover" loading="lazy" />
       </figure>
 
